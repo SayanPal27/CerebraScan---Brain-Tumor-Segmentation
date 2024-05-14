@@ -26,7 +26,7 @@ While our project has achieved promising results, challenges such as inter-scann
     ```
     cd Brain-Tumor-Segmentation
     ```
-3. If Anaconda is installed in system, open the python notebook and run else import the notebook into kaggle or Google Colab:
+3. If Anaconda is installed in system, open the python notebook and run else import the notebook into kaggle or Google Colaboratory
  
 
 ## Conclusion
