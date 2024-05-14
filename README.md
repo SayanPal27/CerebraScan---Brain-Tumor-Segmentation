@@ -1,6 +1,6 @@
 # CerebraScan---Brain-Tumor-Segmentation
 ## Overview
-This project presents a robust brain tumor segmentation algorithm developed using the BRATS 2020 dataset, consisting of 369 MRI images with four modalities each: T1, T2, T1CE, and FLAIR. The segmentation task involved delineating four classes of tumor regions: edema, core, enhancing, and a combined class. Utilizing a UNet architecture with 28 layers, we achieved a remarkable accuracy of 99% in segmenting brain tumors. 
+This project presents a robust brain tumor segmentation algorithm developed using the BRATS 2020 dataset, consisting of 369 MRI images with four modalities each: T1, T2, T1CE, and FLAIR. The segmentation task involved delineating four classes of tumor regions: edema, core, enhancing, and no tumor. Utilizing a UNet architecture with 28 layers, we achieved a remarkable accuracy of 99% in segmenting brain tumors. 
 
 ## Key Features
 - Utilized UNet architecture with 28 layers for segmentation
