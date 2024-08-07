@@ -20,7 +20,7 @@ While our project has achieved promising results, challenges such as inter-scann
 ## How to Run
 1. Clone this repository to your local machine:
     ```
-    git clone <repository_url>
+    git clone https://github.com/SayanPal27/CerebraScan---Brain-Tumor-Segmentation.git
     ```
 2. Navigate to the project directory:
     ```
