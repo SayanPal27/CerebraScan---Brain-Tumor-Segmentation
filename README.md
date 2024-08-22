@@ -22,4 +22,17 @@ Through comprehensive analysis and comparison with existing methodologies, we ha
 While our project has achieved promising results, challenges such as inter-scanner variability, data scarcity for rare tumor subtypes, and the need for real-time segmentation in clinical settings remain areas for future research and development. Furthermore, ongoing refinement and validation of the algorithm on diverse datasets and patient populations are essential to ensure its generalizability and clinical utility.
 
 ## Cloning the Project
-To clone this repository, use the following command:
+1. To clone this repository, use the following command: 
+   ```
+   git clone https://github.com/SayanPal27/CerebraScan---Brain-Tumor-Segmentation.git
+   ```
+    
+3. Navigate to the project directory:
+    ```
+    cd Brain-Tumor-Segmentation
+    ```
+    
+4. If Anaconda is installed on your system, open the Python notebook and run it. Alternatively, you can import the notebook into Kaggle or Google Colaboratory.
+
+## Conclusion
+Our brain tumor segmentation project represents a significant step towards advancing medical imaging technology for precise diagnosis and treatment of brain tumors. By harnessing the power of deep learning and multi-modal MRI data, we have laid the foundation for a scalable and accurate segmentation solution with the potential to positively impact patient care and clinical decision-making in neuro-oncology.
