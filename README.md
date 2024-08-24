@@ -12,15 +12,6 @@ This project presents a robust brain tumor segmentation algorithm developed usin
 - High sensitivity in detecting tumor regions, minimizing false negative cases
 - Accurate localization of tumor boundaries
 
-## Performance Evaluation
-The trained model demonstrated high performance as validated using rigorous evaluation metrics, including Dice coefficient and precision-recall curves, showcasing its reliability and effectiveness in segmenting brain tumors from multi-modal MRI scans.
-
-## Advantages Over Existing Methods
-Through comprehensive analysis and comparison with existing methodologies, we have shown that our approach offers significant improvements in accuracy and robustness, underscoring its potential for clinical application. The successful integration of the segmentation algorithm into existing clinical workflows can lead to enhanced diagnostic accuracy, timely treatment planning, and improved patient outcomes in the management of brain tumors.
-
-## Limitations and Future Directions
-While our project has achieved promising results, challenges such as inter-scanner variability, data scarcity for rare tumor subtypes, and the need for real-time segmentation in clinical settings remain areas for future research and development. Furthermore, ongoing refinement and validation of the algorithm on diverse datasets and patient populations are essential to ensure its generalizability and clinical utility.
-
 ## Cloning the Project
 1. To clone this repository, use the following command: 
    ```
